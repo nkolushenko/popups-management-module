@@ -2,7 +2,7 @@ using PopupsManagement.Runtime.Features.InitializePopupFeature.UI;
 using PopupsManagement.Runtime.Services.UI.MVP;
 using UnityEngine;
 
-namespace popups_management.Runtime.Features.InitializePopupFeature.Systems
+namespace PopupsManagement.Runtime.Features.InitializePopupFeature.Systems
 {
     public class DebugExampleSystem
     {

@@ -1,5 +1,5 @@
 using System;
-using popups_management.Runtime.Features.InitializePopupFeature.Systems;
+using PopupsManagement.Runtime.Features.InitializePopupFeature.Systems;
 using PopupsManagement.Runtime.Services.UI.MVP;
 using VContainer.Unity;
 
