@@ -283,7 +283,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4640410190436646994, guid: d18927be37bef487e94377a09c27c8c0, type: 3}
       propertyPath: m_Name
-      value: InitPopupView (1)
+      value: InitPopupView
       objectReference: {fileID: 0}
     - target: {fileID: 8694626958217926997, guid: d18927be37bef487e94377a09c27c8c0, type: 3}
       propertyPath: m_Pivot.x
