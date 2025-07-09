@@ -1,0 +1,17 @@
+{
+  "name": "popups-management",
+  "version": "1.0.0",
+  "displayName": "Popups Management Module",
+  "author": {
+    "name": "Anastasia Kolushenko",
+    "email": "anastasiya.kolushenko@gmail.com"
+  },
+  
+  "samples": [
+    {
+      "displayName": "Samples",
+      "description": "Demo Samples",
+      "path": "Samples~/DemoSample"
+    }
+  ]
+}
