@@ -1,6 +1,17 @@
 INSTALLATION:
 
+
 1. Create a new Unity project.
+### Option 1: Unity Package file:
+1. Download the `.unitypackage` file from the `Releases` section.
+https://github.com/nkolushenko/popups-management-module/releases/tag/v1.0.0
+
+2. In Unity, go to `Assets → Import Package → Custom Package...`.
+3. Select the downloaded file and import all required assets.
+
+
+
+### Option 2: Unity Package Manager:
 2. Install VContainer via the Package Manager or by adding to `manifest.json`:
    "jp.hadashikick.vcontainer": "https://github.com/hadashiA/VContainer.git?path=VContainer/Assets/VContainer#1.16.9"
 <img width="954" alt="Screenshot 2025-07-10 at 03 20 13" src="https://github.com/user-attachments/assets/96f0dc70-1bb0-4c63-b7c0-6840fb5dde5b" />
@@ -27,6 +38,9 @@ INSTALLATION:
 3. Open the demo scene:  
    `Assets/Samples/Popups Management Module/1.0.0/DemoSample/Scenes/DemoScene.unity`
 <img width="919" alt="Screenshot 2025-07-10 at 03 24 53" src="https://github.com/user-attachments/assets/e5a72309-98c0-42aa-a460-a9e6c5de407a" />
+<img width="890" alt="Screenshot 2025-07-10 at 12 00 39" src="https://github.com/user-attachments/assets/f93a9c18-70d6-40fc-8967-2a5a45aa468c" />
+
+
 
 
 
