@@ -10,12 +10,7 @@ namespace PopupsManagement.Runtime.Features.APopupFeature.UI
         {
             _popupManager = popupManager;
         }
-
-        public void OnAWindowOpenClick()
-        {
-            _popupManager.OpenPopup<BPopupModel, BPopupView, BPopupPresenter, IShowParams>(null);
-        }
-
+        
         public void OnCloseButtonClick()
         {
             _popupManager.CloseTop();

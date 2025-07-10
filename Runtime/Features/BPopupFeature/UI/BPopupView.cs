@@ -7,14 +7,12 @@ namespace PopupsManagement.Runtime.Features.APopupFeature.UI
     public class BPopupView : BasePopupView<BPopupPresenter>
     {
         [SerializeField] private Button closeButton;
-        [SerializeField] private Button aWindowOpenButton;
 
         public override void Open()
         {
             base.Open();
 
             closeButton.onClick.AddListener(Presenter.OnCloseButtonClick);
-            aWindowOpenButton.onClick.AddListener(Presenter.OnAWindowOpenClick);
         }
 
         public override void Close()
@@ -22,7 +20,6 @@ namespace PopupsManagement.Runtime.Features.APopupFeature.UI
             base.Close();
 
             closeButton.onClick.RemoveListener(Presenter.OnCloseButtonClick);
-            aWindowOpenButton.onClick.RemoveListener(Presenter.OnAWindowOpenClick);
         }
     }
 }
