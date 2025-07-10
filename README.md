@@ -7,7 +7,7 @@ INSTALLATION:
 <img width="953" alt="Screenshot 2025-07-10 at 03 20 56" src="https://github.com/user-attachments/assets/ceea658a-de58-473d-ba74-ef90dddd2964" />
 
 
-3. Add this package git@github.com:nkolushenko/popups-management-module.git
+3. Add this package "https://github.com/nkolushenko/popups-management-module.git"
 <img width="943" alt="Screenshot 2025-07-10 at 03 22 41" src="https://github.com/user-attachments/assets/798126eb-ff66-4444-b402-bf85fc54c5aa" />
 
 
