@@ -1,5 +1,8 @@
-INSTALLATION:
+## Requirements
+- Unity 2022.3.62+ (LTS recommended)
 
+
+INSTALLATION:
 
 1. Create a new Unity project.
 ### Option 1: Unity Package file:
