@@ -1,3 +1,9 @@
+## Future Plans
+- Implement UniTask  
+- Implement Addressables support  
+- Refactor the project  
+- Continue developing the module (still in early stage)
+
 ## Requirements
 - Unity 2022.3.62+ (LTS recommended)
 
